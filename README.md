@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @jayjuk
-- 👀 I’m interested in improving my skills as a programmer, and in making solutions for fun
-- 🌱 I’m currently learning Python, Java, HTML, CSS, Javascript, React and more!
+- 👀 I am not full-time professional software engineer, but have recently resumed programming in my spare time. I am passionate about coding and any projects you find here are likely to be largely driven by my desire to continue learning and having fun.
+- 🌱 I use Python, SQL and many third party products at work; in my spare time, I have recently started learning Rust.
+
 
